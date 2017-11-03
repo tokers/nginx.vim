@@ -160,6 +160,14 @@ syn keyword ngxDirective gzip_static
 syn keyword ngxDirective gzip_types
 syn keyword ngxDirective gzip_vary
 syn keyword ngxDirective gzip_window
+syn keyword ngxDirective brotli
+syn keyword ngxDirective brotli_static
+syn keyword ngxDirective brotli_types
+syn keyword ngxDirective brotli_buffers
+syn keyword ngxDirective brotli_comp_level
+syn keyword ngxDirective brotli_window
+syn keyword ngxDirective brotli_min_length
+
 syn keyword ngxDirective if_modified_since
 syn keyword ngxDirective ignore_invalid_headers
 syn keyword ngxDirective image_filter
